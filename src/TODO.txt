@@ -1,0 +1,32 @@
+App:
+    XX1)Particles to take all the size of the screen (try sticky)
+
+NavBar:
+    XX1) El Extra space on the top 
+    XX2) Fixed or sticky msh faker bs for later on make it so that its always in the top 
+
+MainPage:
+    XX1) Positioning sorty
+    XX2) Particles in the backgroung
+    3) Get Actual Soora
+    4) Change Written Shit
+    xx5) decrease Distance beteen omar and com eng
+
+
+
+Resume:
+    XX1)Center the buttons at the bottom
+    2)change txt for trans skills
+    3)consider changing txt for two bottom texts
+    XX4) el masafa bt3t el margin block start
+
+Experience:
+    1) Make sure you didnt miss something
+    2) make sure ratings are represenative
+    XX3) when reloding the page the bars dont work
+    XX4) name it skills
+
+Projects:
+    XX1) name it Experience
+    2) KAU logo
+    3) colors
